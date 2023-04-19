@@ -6,7 +6,7 @@
 - 📫 How to reach me: athuljoseph00@gmail.com
 - ⚡ Fun fact: No matter how fast you are, there are some things you can’t outrun; some things always manage to catch up to you.
 
-### Languages and Tools :
+<!-- ### Languages and Tools : -->
 
 <div>
 <img margin-right="60px" src='https://github-readme-stats.vercel.app/api/top-langs/?username=AthulJoseph27&count_private=true&layout=compact&theme=algolia&hide=c%23'/>
