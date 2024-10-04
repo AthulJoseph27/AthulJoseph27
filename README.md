@@ -1,10 +1,8 @@
 ### When you don’t have the key to the lock, sometimes you have to kick in the door ⚡
 
 - 🔭 I’m currently working on a Aurora - A Ray Tracing Engine.
-- 🌱 I’m currently learning a lot 😂.
 - 🖥️ Checkout [_.a.d.r.o.i.t._](https://www.instagram.com/_.a.d.r.o.i.t._/) for cool projects.
 - 📫 How to reach me: athuljoseph00@gmail.com
-- ⚡ Fun fact: No matter how fast you are, there are some things you can’t outrun; some things always manage to catch up to you.
 
 <!-- ### Languages and Tools : -->
 
